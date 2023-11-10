@@ -16,7 +16,7 @@ Exercícios que realizei para treinar funções de Looping For.
 
 ## Versões:
 
-> Python 3.10
+- Python 3.10
 
 ## Autores:
 
